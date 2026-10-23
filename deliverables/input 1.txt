@@ -1,0 +1,1 @@
+execute and audit a database schema migration script that splits a legacy full_name column into separate first_name and last_name columns without data loss before deploying to production.
